@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 120" fill="none">
+  <!-- Head -->
+  <circle cx="50" cy="12" r="9" fill="#0066FF"/>
+  <!-- Central spine -->
+  <line x1="50" y1="21" x2="50" y2="108" stroke="#0066FF" stroke-width="5" stroke-linecap="round"/>
+  <!-- Upper diagonal arms -->
+  <line x1="50" y1="38" x2="24" y2="18" stroke="#0066FF" stroke-width="5" stroke-linecap="round"/>
+  <line x1="50" y1="38" x2="76" y2="18" stroke="#0066FF" stroke-width="5" stroke-linecap="round"/>
+  <circle cx="24" cy="18" r="4.5" fill="#0066FF"/>
+  <circle cx="76" cy="18" r="4.5" fill="#0066FF"/>
+  <!-- Middle horizontal arms -->
+  <line x1="50" y1="62" x2="16" y2="62" stroke="#0066FF" stroke-width="5" stroke-linecap="round"/>
+  <line x1="50" y1="62" x2="84" y2="62" stroke="#0066FF" stroke-width="5" stroke-linecap="round"/>
+  <circle cx="16" cy="62" r="4.5" fill="#0066FF"/>
+  <circle cx="84" cy="62" r="4.5" fill="#0066FF"/>
+  <!-- Lower diagonal legs -->
+  <line x1="50" y1="84" x2="24" y2="104" stroke="#0066FF" stroke-width="5" stroke-linecap="round"/>
+  <line x1="50" y1="84" x2="76" y2="104" stroke="#0066FF" stroke-width="5" stroke-linecap="round"/>
+  <circle cx="24" cy="104" r="4.5" fill="#0066FF"/>
+  <circle cx="76" cy="104" r="4.5" fill="#0066FF"/>
+</svg>
